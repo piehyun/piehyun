@@ -1,6 +1,3 @@
-## Hi, I'm jeonghyun 👋
-
-
 <!--
 **piehyun/piehyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=180&text=PIEHYUN'S%20GITHUB&animation=&fontColor=000000&fontSize=60" />
     </div>
